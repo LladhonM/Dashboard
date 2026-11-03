@@ -1,11 +1,11 @@
-# Dependencias del tablero, para Streamlit Community Cloud.
-# Las versiones son las de Entrega 3/requirements.txt del repositorio del TP.
-# Excepcion: streamlit va con >=. Community Cloud trae su version de Streamlit y, si se la baja
-# a una mas vieja, la pagina queda cargando sin fin (paso con 1.63.0).
-streamlit>=1.66.1
+# Dependencias del tablero. Las versiones son las de Entrega 3/requirements.txt del repositorio
+# del TP, mas pyarrow fijo en 24.0.0: Streamlit Cloud reemplaza 25 y 26 por un error conocido
+# que cierra el proceso (apache/arrow#50471).
+streamlit==1.66.1
 plotly==7.0.0
 pandas==3.0.5
 numpy==2.3.4
+pyarrow==24.0.0
 scipy==1.18.0
 # eda.py, que da los nombres de barrio, importa matplotlib y seaborn.
 matplotlib==3.10.7
