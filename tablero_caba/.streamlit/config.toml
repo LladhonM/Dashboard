@@ -1,0 +1,26 @@
+# Tema del tablero (DISENO_TABLERO.md, seccion 1). Streamlit lee este archivo
+# desde la carpeta en la que se ejecuta: correr `streamlit run app.py` desde tablero/.
+[theme]
+base = "light"
+primaryColor = "#30343F"
+backgroundColor = "#F3F5F9"
+secondaryBackgroundColor = "#E8EEF7"
+textColor = "#30343F"
+linkColor = "#2F68B0"
+borderColor = "#E1E6EE"
+font = "IBM Plex Sans:https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap, sans-serif"
+baseRadius = "10px"
+# Tamaño general del tablero: 16 es el de Streamlit. Con 13 se ve como el navegador al ~80%.
+baseFontSize = 13
+showSidebarBorder = false
+
+# Barra lateral oscura con los filtros.
+[theme.sidebar]
+backgroundColor = "#30343F"
+secondaryBackgroundColor = "#3A3F4B"
+textColor = "#F1F3F7"
+primaryColor = "#C5D5EA"
+borderColor = "#555B6B"
+
+[browser]
+gatherUsageStats = false

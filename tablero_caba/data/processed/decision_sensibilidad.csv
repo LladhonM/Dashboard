@@ -1,0 +1,23 @@
+﻿parametro,vacancia,gastos_sin_abl,abl,entrada,umbral,margen,n_p1,n_p1_con_entrada,jaccard_p1_vs_base,n_frontera_p2,jaccard_frontera_vs_base,pares_distinguibles_pct,neta_min_mediana
+base,5.88,10.24,segmentado,base,7.6,0.0,18,4,1.0,140,1.0,7.28,4.12
+vacancia,4.0,10.24,segmentado,base,7.6,0.0,23,4,0.783,140,1.0,7.28,4.2
+vacancia,6.0,10.24,segmentado,base,7.6,0.0,18,4,1.0,140,1.0,7.28,4.11
+vacancia,8.0,10.24,segmentado,base,7.6,0.0,16,4,0.889,140,1.0,7.28,4.03
+vacancia,10.0,10.24,segmentado,base,7.6,0.0,12,3,0.667,140,1.0,7.28,3.94
+vacancia,12.0,10.24,segmentado,base,7.6,0.0,10,3,0.556,140,1.0,7.28,3.85
+gastos sin ABL,5.88,8.24,segmentado,base,7.6,0.0,23,4,0.783,138,0.986,7.29,4.22
+gastos sin ABL,5.88,10.24,segmentado,base,7.6,0.0,18,4,1.0,140,1.0,7.28,4.12
+gastos sin ABL,5.88,12.24,segmentado,base,7.6,0.0,16,3,0.889,140,1.0,7.26,4.02
+ABL,5.88,10.24,plano,base,7.6,0.0,20,4,0.9,92,0.657,8.14,4.19
+ABL,5.88,10.24,segmentado,base,7.6,0.0,18,4,1.0,140,1.0,7.28,4.12
+ABL,5.88,10.24,segmentado_tope,base,7.6,0.0,15,4,0.833,128,0.914,7.0,4.02
+costos de entrada,5.88,10.24,segmentado,sin,7.6,0.0,18,24,1.0,140,1.0,7.28,4.12
+costos de entrada,5.88,10.24,segmentado,base,7.6,0.0,18,4,1.0,140,1.0,7.28,4.12
+costos de entrada,5.88,10.24,segmentado,alto,7.6,0.0,18,3,1.0,140,1.0,7.28,4.12
+banda de retorno,5.88,10.24,segmentado,base,7.1,0.0,33,5,0.545,140,1.0,7.28,4.12
+banda de retorno,5.88,10.24,segmentado,base,7.6,0.0,18,4,1.0,140,1.0,7.28,4.12
+margen por liquidez,5.88,10.24,segmentado,base,7.6,0.0,18,4,1.0,140,1.0,7.28,4.12
+margen por liquidez,5.88,10.24,segmentado,base,7.6,0.5,10,3,0.556,140,1.0,7.28,4.12
+margen por liquidez,5.88,10.24,segmentado,base,7.6,1.0,6,2,0.333,140,1.0,7.28,4.12
+extremo favorable,4.0,8.24,plano,sin,7.1,0.0,51,57,0.353,92,0.657,8.14,4.38
+extremo desfavorable,12.0,12.24,segmentado_tope,alto,7.6,1.0,3,0,0.167,129,0.921,6.98,3.67

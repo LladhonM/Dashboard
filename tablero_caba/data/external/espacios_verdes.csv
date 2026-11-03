@@ -1,0 +1,609 @@
+﻿id,nombre,clasificacion,area_m2,barrio,comuna,es_parque,fuente,fecha_descarga
+2,Escuela Scalabrini Ortiz,PLAZOLETA,1658.0,Colegiales,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+6,Polideportivo Colegiales,PARQUE,4686.0,Colegiales,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+8,,PLAZOLETA,3747.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+10,Plaza Pques. Nacionales Argentinos,PLAZA,12171.0,Belgrano,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+26,Plaza Barrio Marcelo T de Alvear,PLAZA,36224.0,Parque Avellaneda,9,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+42,Jorge N. Williams,PLAZOLETA,1312.0,Villa Del Parque,11,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+53,Plaza Tupac Amarú,PLAZA,1965.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+70,Plaza Irlanda,PLAZA,37603.0,Caballito,6,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+93,,PLAZOLETA,1418.0,Liniers,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+107,Plaza Alemania,PLAZA,24956.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+117,Plaza Brig. Gral. J. M. Zapiola,PLAZA,5379.0,Villa Urquiza,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+138,Espacio Recreativo Leito,PLAZOLETA,2814.0,Mataderos,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+139,Eleodoro Marenco,PLAZOLETA,2513.0,Mataderos,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+160,Ing. Agr. Benito J. Carrasco,PARQUE,70717.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+163,,PLAZOLETA,4574.0,Villa Soldati,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+171,Parque Brig. Gral. Cornelio Saavedra,PARQUE,96070.0,Saavedra,12,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+177,Plaza de la Integración Latinoamericana,PLAZA,2296.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+180,Plaza Dr. Juan B Terán,PLAZA,15432.0,Villa Real,10,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+181,Parque Florentino Ameghino,PARQUE,35581.0,Parque Patricios,4,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+188,Patio Félix Liceaga,PLAZOLETA,1304.0,Parque Chacabuco,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+202,Plaza Nuestra Señora de la Asunción,PLAZA,3670.0,Villa Gral. Mitre,11,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+206,Plazoleta Clubes del Barrio,PLAZOLETA,1772.0,Nueva Pompeya,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+245,Plaza J. J. Paso,PLAZA,4787.0,Colegiales,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+255,Belisario Roldán,PLAZOLETA,1458.0,Versalles,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+269,Plaza de la Misericordia,PLAZA,5647.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+281,Plaza Reina de Holanda,PLAZA,1998.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+295,Plaza Aristóbulo del Valle,PLAZA,7917.0,Villa Del Parque,11,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+296,"Plaza de Las Armas ""Ejército Argentino""",PLAZA,12025.0,Monserrat,1,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+297,Plaza Mons. Miguel de Andrea,PLAZA,5868.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+306,Plaza Jorge Di Pascuale,PLAZA,10410.0,Parque Avellaneda,9,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+314,Plaza Dr. Benjamín A. Gould,PLAZA,41826.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+326,Plaza Canadá,PLAZA,10358.0,Retiro,1,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+327,Almte. Guillermo Brown,PARQUE,71317.0,Flores,7,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+338,Plaza Marcos Sastre,PLAZA,1965.0,Villa Urquiza,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+348,Guillermo Facio Hebequer,PLAZOLETA,1192.0,Nueva Pompeya,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+352,Plaza Ciudad de Udine,PLAZA,3375.0,Floresta,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+361,Plaza Dr. Bernardo A. Houssay,PLAZA,7223.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+362,Plaza Miserere,PLAZA,5840.0,Balvanera,3,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+365,,JARDÍN,9885.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+368,Parque La Isla de la Paternal,PARQUE,78244.0,Paternal,15,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+371,Plaza de los Viveros,PLAZA,4552.0,Villa Riachuelo,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+372,Plaza Rubén Darío,PLAZA,37090.0,Recoleta,2,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+377,,JARDÍN,7464.0,Velez Sarsfield,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+392,Plaza Hugo Ricardo Corradi,PLAZA,1105.0,Villa Luro,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+399,Plaza Francisco Sicardi,PLAZA,7625.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+434,Plaza Martín Fierro,PLAZA,9518.0,San Cristobal,3,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+457,Plaza Club Alemán de Equitación - Pque. Olímpico (No oficial),PLAZA,84387.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+460,Jardin de los Maestros,JARDÍN,1353.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+462,Plaza de los Olmos,PLAZA,5434.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+463,Plazoleta Skanderberg (Jorge Castriota) - De los Milagros,PLAZOLETA,1060.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+464,Plaza Libres del Sud,PLAZA,15787.0,Recoleta,2,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+469,,PLAZOLETA,12899.0,Constitucion,1,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+481,Plaza V. López y Planes,PLAZA,10708.0,Recoleta,2,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+482,Plaza Int. Torcuato de Alvear,PLAZA,19076.0,Recoleta,2,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+496,Plaza Anna Eleanor Roosevelt,PLAZA,2975.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+499,Plaza Beatriz Guido,PLAZA,1340.0,San Telmo,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+500,Plaza Madres del Pañuelo Blanco,PLAZA,2333.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+503,Plazoleta Daniel Hernán García,PLAZOLETA,2265.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+508,Plazoleta Eslovaquia,PLAZOLETA,3954.0,Villa Urquiza,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+509,Plazoleta Salvador Allende,PLAZOLETA,4868.0,Villa Urquiza,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+511,Plaza Fuerza Aérea Argentina,PLAZA,12689.0,Retiro,1,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+512,Plaza La Vuelta de Obligado,PLAZA,58048.0,Parque Patricios,4,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+520,Leonardo Pereyra,PARQUE,39740.0,Barracas,4,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+521,Plaza República del Paraguay,PLAZA,2061.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+522,Plazoleta De Todos,PLAZOLETA,4222.0,Villa Urquiza,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+523,Plazoleta Doña Petrona C. de Gandulfo,PLAZOLETA,5636.0,Villa Urquiza,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+524,Plazoleta República Checa,PLAZOLETA,2343.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+527,Plazoleta Mencía Calderón,PLAZOLETA,3574.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+530,Plazoleta Rabino Marshall Meyer,PLAZOLETA,6007.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+536,,PLAZOLETA,11076.0,Nuñez,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+537,,PLAZOLETA,3125.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+540,,PLAZOLETA,1152.0,Chacarita,15,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+546,,PLAZOLETA,4225.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+554,,JARDÍN,3746.0,Velez Sarsfield,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+555,,JARDÍN,2851.0,Velez Sarsfield,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+560,Plaza de los Niños - Dr. Carlos Gianatonio,PLAZA,8168.0,Villa Pueyrredon,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+561,Plaza República de Chile,PLAZA,25501.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+563,Plaza de Isidora,PLAZA,2688.0,Liniers,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+590,Plazoleta Av Gendarmería - Barrio 31,PLAZOLETA,2311.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+595,,PLAZOLETA,1873.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+598,,PLAZOLETA,1635.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+599,,PLAZOLETA,1088.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+610,Plaza Barrancas de Belgrano,PLAZA,21097.0,Belgrano,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+621,Saara Vaamonde,PLAZOLETA,1652.0,Boedo,5,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+623,,PATIO RECREATIVO,1116.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+624,Pzta Gral. Francisco Ramírez,PLAZOLETA,2115.0,Nuñez,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+625,Plaza Don Bosco,PLAZA,8025.0,Monte Castro,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+626,Plaza Nicaragua,PLAZA,5442.0,Parque Patricios,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+628,Agustín Magaldi,PLAZOLETA,1220.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+630,Plaza Güemes,PLAZA,1241.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+632,Agustín Bardi,PLAZOLETA,1064.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+633,Plaza Venezuela,PLAZA,3035.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+637,Plaza de las Escuelas,PLAZA,2443.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+638,Plaza Ildefonso F. C. Martínez,PLAZA,1803.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+640,Brig. Gral. Enrique Martínez,PLAZOLETA,1379.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+642,Gral. José A. Paez,PLAZOLETA,12557.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+643,Plaza Dante,PLAZA,4608.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+645,Plaza Presidente Juan Domingo Perón,PLAZA,5686.0,Monserrat,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+646,Plaza Virrey Vértiz,PLAZA,8878.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+647,Plaza De La Republica,PLAZA,3162.0,San Nicolas,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+650,Plaza de Cataluña,PLAZA,1608.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+652,Gral. Paz,PLAZOLETA,1044349.0,Villa Real,10,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+653,Plazoleta Gustavo Cuchi Leguizamón,PLAZOLETA,2129.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+655,Plazoleta Lino Enea Spilimbergo,PLAZOLETA,3365.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+656,Plazoleta Hungría,PLAZOLETA,3967.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+659,,PLAZOLETA,1782.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+662,Parque Presidente Sarmiento,PARQUE,460270.0,Saavedra,12,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+663,Plaza Democracia,PLAZA,30374.0,Villa Lugano,8,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+664,Ciudad del Rock,PARQUE,504480.0,Villa Soldati,8,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+671,,PLAZOLETA,1309.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+675,,JARDÍN,54494.0,Belgrano,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+676,Plaza José Martí,PLAZA,3420.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+680,Plaza Libertad,PLAZA,9714.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+682,Plaza Paseo del Riachuelo,PLAZA,1865.0,Nueva Pompeya,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+683,Plaza Lola Mora,PLAZA,1138.0,Constitucion,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+711,,PLAZOLETA,1150.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+722,,PLAZOLETA,6763.0,Villa Soldati,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+728,,PLAZOLETA,6038.0,Parque Avellaneda,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+734,Plaza Glorias del Automovilismo Argentino,PLAZA,2001.0,Villa Riachuelo,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+746,,PATIO RECREATIVO,2516.0,Villa Soldati,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+764,Eduardo Rovira,PLAZOLETA,3069.0,Nueva Pompeya,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+774,,PLAZA,4308.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+798,Plaza del Lector,PLAZA,1252.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+806,Plaza Villa Real,PLAZA,7593.0,Villa Real,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+807,,PLAZOLETA,4079.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+809,,JARDÍN,49893.0,Belgrano,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+811,,PLAZOLETA,1827.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+820,,JARDÍN,6645.0,Velez Sarsfield,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+821,Cnel. Jordán C. Wysocki,PLAZOLETA,16181.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+823,,JARDÍN,4293.0,Nuñez,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+827,,PLAZOLETA,1161.0,Villa Pueyrredon,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+834,,JARDÍN,2281.0,Parque Avellaneda,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+835,,JARDÍN,1146.0,Parque Avellaneda,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+836,,JARDÍN,1288.0,Parque Avellaneda,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+848,Amigos de las Artes,PLAZOLETA,2684.0,Villa Luro,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+854,,PLAZOLETA,1915.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+869,Patio Recreativo Paseo de Juegos La Victoria,PATIO RECREATIVO,1602.0,Floresta,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+870,Balneario Norte,PARQUE SEMIPÚBLICO,184690.0,Belgrano,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+871,Parque Centenario,PARQUE,71468.0,Caballito,6,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+872,Parque Chacabuco,PARQUE,125689.0,Parque Chacabuco,7,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+873,Parque Patricios,PARQUE,78146.0,Parque Patricios,4,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+874,Parque Avellaneda,PARQUE,306778.0,Parque Avellaneda,9,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+875,Parque Los Andes,PARQUE,62339.0,Chacarita,15,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+876,Plaza Int. Francisco Seeber,PLAZA,35806.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+877,Plaza Arenales,PLAZA,23515.0,Villa Devoto,11,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+878,Plaza de la Constitución,PLAZA,14398.0,Constitucion,1,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+879,Plaza Primero de Mayo,PLAZA,7470.0,Balvanera,3,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+880,Parque Lezama,PARQUE,45988.0,San Telmo,1,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+881,Plaza Lavalle,PLAZA,25131.0,San Nicolas,1,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+882,Plaza San Martín,PLAZA,31635.0,Retiro,1,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+883,Plaza 25 de Mayo,PLAZA,8492.0,Monserrat,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+884,Plaza Rodríguez Peña,PLAZA,8281.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+885,Plaza Italia,PLAZA,2832.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+886,Plaza Pueyrredón,PLAZA,6787.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+887,Plaza Francia,PLAZA,7383.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+888,Plaza Matheu,PLAZA,4455.0,La Boca,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+889,Plaza Alberti,PLAZA,6247.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+890,Plaza Solis,PLAZA,5840.0,La Boca,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+891,Plaza Garay,PLAZA,9696.0,Constitucion,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+892,Plaza Sudamérica,PLAZA,6909.0,Villa Riachuelo,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+893,Balneario Sud,PARQUE,139383.0,Puerto Madero,1,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+894,José E. Uriburu,PARQUE,24707.0,Parque Patricios,4,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+895,Plaza 25 de Agosto,PLAZA,6660.0,Villa Ortuzar,15,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+896,Plaza Vélez Sarsfield,PLAZA,8917.0,Floresta,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+897,Plaza Díaz Vélez,PLAZA,2222.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+898,Plaza Echeverría,PLAZA,4351.0,Villa Urquiza,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+899,Plaza Castelli,PLAZA,6447.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+900,Plaza Gral. Benito Nazar,PLAZA,4469.0,Villa Crespo,15,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+901,Plaza Padre L. Massa,PLAZA,2857.0,Boedo,5,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+902,Plaza Ing. Estévez,PLAZA,12105.0,Parque Avellaneda,9,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+903,Plaza Brown,PLAZA,4944.0,La Boca,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+904,"Plaza 24 de Septiembre, Batalla de Tucumán",PLAZA,2495.0,Villa Crespo,15,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+905,Plazoleta 17 de Mayo,PLAZOLETA,1220.0,Mataderos,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+906,Plaza del Congreso,PLAZA,2469.0,Monserrat,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+907,Plaza Dr. J. M. Velasco Ibarra,PLAZA,4177.0,Balvanera,3,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+908,Plazoleta de los Molfetteses,PLAZOLETA,2189.0,La Boca,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+909,Plaza Cnel. Martín Irigoyen,PLAZA,4151.0,Liniers,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+910,Plaza Rufino de Elizalde,PLAZA,3048.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+911,Plaza Noruega,PLAZA,2159.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+913,Plaza República Federativa del Brasil,PLAZA,3488.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+914,Paseo de las Américas,PARQUE,67877.0,Belgrano,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+916,Plaza Padre M. Champagnat,PLAZA,6034.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+917,Plaza República del Ecuador,PLAZA,44484.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+919,Parque Padre Carlos Mugica,PARQUE,43839.0,Saavedra,12,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+921,Plaza Cecilia Grierson,PLAZA,1596.0,San Telmo,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+922,Plaza Lorea,PLAZA,1088.0,Monserrat,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+926,Plaza Balcarce,PLAZA,4235.0,Nuñez,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+927,Plaza Leandro N. Alem,PLAZA,5386.0,Villa Pueyrredon,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+928,Plaza Mitre,PLAZA,7367.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+929,Plazoleta Haroldo Conti,PLAZOLETA,23261.0,Puerto Madero,1,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+931,Plaza Herrera,PLAZA,4958.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+937,Parque Gral. Paz,PARQUE,77345.0,Saavedra,12,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+940,Parque de los Niños,PARQUE,264776.0,Nuñez,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+941,Paseo República de Filipinas,JARDÍN,5257.0,Colegiales,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+942,República de Croacia,PLAZOLETA,5544.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+943,Parque Indoamericano,PARQUE,875444.0,Villa Soldati,8,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+944,M. Sánchez de Thompson,PLAZOLETA,3137.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+946,Enrique M. Francini,PLAZOLETA,6113.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+948,Dr. Pedro Escudero,PLAZOLETA,4124.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+949,Alfredo Le Pera,PLAZOLETA,1571.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+950,Plaza 1º de Marzo de 1948,PLAZA,7052.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+953,Plazoleta 8 de Marzo - Día Internacional de la Mujer,PLAZOLETA,2181.0,Versalles,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+957,Plaza de la Bandera,PLAZA,2154.0,Velez Sarsfield,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+968,Elena Larroque de Roffo,PLAZOLETA,1188.0,Villa Del Parque,11,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+996,Brig. Gral. Tomás de Iriarte,PLAZOLETA,1907.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+998,del Tango,PLAZOLETA,1317.0,San Nicolas,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+999,Raquel Forner,PARQUE,3753.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1001,"Don Enrique ""el Navegante""",PLAZOLETA,1789.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1007,Plazoleta Yugoslavia,PLAZOLETA,3846.0,Liniers,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1011,Plaza Calabria,PLAZA,12821.0,Villa Soldati,8,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1012,Plaza Alberdi,PLAZA,12474.0,Saavedra,12,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1021,Pascual Pérez,PLAZOLETA,1180.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1033,Plazoleta República Soc. de Vietnam,PLAZOLETA,2874.0,Villa Urquiza,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1037,Plaza Nicolás Granada,PLAZA,8482.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1039,Roberto Firpo,PLAZOLETA,1152.0,Colegiales,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1040,Obispo Enrique Angelelli,PLAZA,8129.0,Nueva Pompeya,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1054,Virginia Bolten,PARQUE,8439.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1055,Aeronáutica Argentina,PLAZOLETA,4307.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1061,Plaza Dr. Vicente S. Lima,PLAZA,6001.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1062,Plaza Bélgica,PLAZA,1170.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1067,José E. Agüero,PLAZOLETA,8197.0,Versalles,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1083,Guillermo E. Hudson,JARDÍN,10114.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1086,Juan C. Cobián,PLAZOLETA,2195.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1095,Plaza M. Mujica Lainez,PLAZA,1212.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1099,Dr. C. A. Pueyrredón,PLAZOLETA,40599.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1104,Parque Thays,PARQUE,49023.0,Recoleta,2,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1105,Bo. Gral. San Martín,JARDÍN,73619.0,Villa Pueyrredon,12,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1106,Parque Rivadavia,PARQUE,32836.0,Caballito,6,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1107,Parque Las Heras,PARQUE,60827.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1108,Plaza El Salvador,PLAZA,36371.0,Belgrano,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1109,Parque de la Raza (Aeroparque),PARQUE SEMIPÚBLICO,649915.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1110,Parque de las Victorias,PARQUE,749476.0,Villa Lugano,8,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1111,Dr. Juan B. Alberdi,PARQUE,26000.0,Mataderos,9,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1112,Plaza Mariano Moreno,PLAZA,6524.0,Monserrat,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1113,Plaza Martín Rodríguez,PLAZA,7248.0,Villa Pueyrredon,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1114,Plaza B. Vicuña Mackenna,PLAZA,3899.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1115,Plaza Roma,PLAZA,6798.0,San Nicolas,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1116,Italo Masuelli,PLAZOLETA,4825.0,Villa Pueyrredon,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1117,Parque Saint Tropez,PARQUE,75108.0,Belgrano,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1118,Plaza de los Periodistas,PLAZA,7624.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1119,Plaza Tte. Gral. Pablo Ricchieri,PLAZA,10273.0,Villa Devoto,11,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1120,Plazoleta Colombia,PLAZOLETA,3097.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1121,Plaza Islas Malvinas,PLAZA,4200.0,La Boca,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1122,Plaza Dr. Onesimo Leguizamón,PLAZA,4778.0,Mataderos,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1124,Plaza Derechos del Hombre,PLAZA,6447.0,Villa Luro,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1125,Plaza Unidad Latinoamericana,PLAZA,4839.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1126,Plaza Almagro,PLAZA,7514.0,Almagro,5,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1127,Plaza Tte. Gral. Emilio Mitre,PLAZA,5734.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1129,Plaza R. González Tuñón,PLAZA,1193.0,Balvanera,3,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1130,Plaza Unidad Nacional,PLAZA,3805.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1131,Plaza Cap. D. Fidel Sarmiento,PLAZA,1155.0,Parque Chas,15,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1132,Plaza Dr. Alfredo Nobel,PLAZA,1448.0,Parque Chas,15,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1133,Plaza Inmigrantes de Armenia,PLAZA,5761.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1135,Plaza Félix Lima,PLAZA,4036.0,Nuñez,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1136,Gral. A. J. Sucre,PLAZOLETA,9100.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1137,Plaza Juan F. Salaberry,PLAZA,3201.0,Mataderos,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1138,Plaza Alf José M. Sobral,PLAZA,2762.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1139,Plaza Antonio Malaver,PLAZA,5590.0,Villa Ortuzar,15,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1140,Plaza Dr. Amadeo Sabattini,PLAZA,2377.0,Caballito,6,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1142,Plaza Sarmiento,PLAZA,4322.0,Liniers,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1143,Plaza Rosario Vera Peñaloza,PLAZA,5301.0,San Telmo,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1144,Plaza de los Mataderos,PLAZA,6914.0,Mataderos,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1145,Plaza Ing. Félix Aguilar,PLAZA,12825.0,Belgrano,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1146,San Miguel de Garicoits,PLAZA,4822.0,Colegiales,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1147,Plazoleta Emilio Troncoso,PLAZOLETA,1571.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1150,Plaza Ramón G. Fernández,PLAZA,26280.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1151,Plaza Domingo Olivera,PLAZA,3531.0,Parque Avellaneda,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1153,Plaza de los Colegiales,PLAZA,5651.0,Colegiales,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1154,Plaza Gral. Manuel Belgrano,PLAZA,4671.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1155,Plaza Sgto. Cabral,PLAZA,2014.0,Liniers,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1158,Plaza Evita,PLAZA,10488.0,Recoleta,2,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1159,Plaza Ejército de los Andes,PLAZA,5548.0,Villa Luro,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1160,Plaza Mafalda,PLAZA,8199.0,Colegiales,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1161,Parque Micaela Bastidas,PARQUE,55524.0,Puerto Madero,1,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1162,Plaza Cnel. Ramón L. Falcón - Che Guevara,PLAZA,3901.0,Velez Sarsfield,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1163,Plaza San Martín (Anexo),PLAZA,3547.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1164,Plaza José C. Paz,PLAZA,12176.0,Parque Patricios,4,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1165,Plaza Roberto Arlt,PLAZA,2470.0,San Nicolas,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1166,Plazoleta Portugal,PLAZOLETA,1438.0,Colegiales,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1167,Alfonsina Storni,PLAZOLETA,3000.0,Constitucion,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1168,Nstra Sra. de Luján,PLAZA,1736.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1169,Plaza Mons. Fermín Lafitte,PLAZA,6861.0,Monte Castro,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1170,Plaza Dr. R. Sáenz Peña,PLAZA,8609.0,Villa Gral. Mitre,11,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1171,Enrique Udaondo,PLAZOLETA,1096.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1172,Héctor Gagliardi,PLAZOLETA,2774.0,Villa Pueyrredon,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1173,San Martín de Tours,PLAZA,6249.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1174,Plaza Federación de Rusia,PLAZA,18683.0,Belgrano,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1175,Crisólogo Larralde,PLAZOLETA,1548.0,Caballito,6,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1178,José Razzano,PLAZOLETA,2409.0,San Nicolas,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1179,Plaza República del Perú,PLAZA,4722.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1181,Plaza República Oriental del Uruguay,PLAZA,29690.0,Recoleta,2,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1183,Plaza Grand Bourg,PLAZA,1284.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1185,Plaza Jorge L. Borges,PLAZA,1310.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1186,Plaza Salvador M. del Carril,PLAZA,3712.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1187,Plaza Miguel Unamuno,PLAZA,1331.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1188,Plaza Ciudad de Banff,PLAZA,11203.0,Versalles,10,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1193,Hipólito Bouchard,PLAZA,4146.0,San Nicolas,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1194,Helen Keller,PLAZA,1121.0,Nueva Pompeya,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1195,Dr. Genaro Giacobini,PLAZOLETA,1074.0,Parque Patricios,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1197,Paseo de la Chacarita de los Colegiales,JARDÍN,10432.0,Chacarita,15,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1205,Plaza de los Virreyes - Tupac  Amarú,PLAZA,7936.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1206,Eva Perón,PLAZOLETA,2703.0,San Telmo,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1208,De los Vecinos Sensibles,PLAZOLETA,1207.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1209,Plazoleta Carlos Disarli,PLAZOLETA,1496.0,La Boca,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1211,Ciudad de Guadix,PLAZOLETA,2348.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1214,Plaza Pakistan,PLAZA,30994.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1215,Plaza Luis F. Leloir,PLAZA,2529.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1218,Don Orione,PLAZOLETA,1072.0,Nueva Pompeya,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1219,Plaza Cmte. A. Guacurari Artigas,PLAZA,5255.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1220,Dr. Carlos A. Erro,PLAZOLETA,1691.0,San Nicolas,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1224,Florencio Sánchez,PLAZOLETA,54151.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1225,Julián Besteiro,PLAZOLETA,1189.0,Paternal,15,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1228,Plaza República de Honduras,PLAZA,1972.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1229,Plazoleta Maimónides,PLAZOLETA,1484.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1235,Enrique G. Velloso,PLAZOLETA,5155.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1241,Virreinato del Río de la Plata,PLAZOLETA,1256.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1243,Federico Früebel,PLAZOLETA,1496.0,Caballito,6,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1244,Plaza del Correo,PLAZA,1985.0,San Nicolas,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1245,Plaza Ramón J. Carcano,PLAZA,1728.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1246,Ciudad de Lakewood,PLAZOLETA,1300.0,Nueva Pompeya,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1247,Plaza de las Naciones Unidas,PLAZA,43853.0,Recoleta,2,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1248,Gaspar Xuarez,PLAZOLETA,1313.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1249,Gral. Enrique Mosconi,PLAZOLETA,1015.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1250,Plazoleta Dr. Carlos S. Lamas,PLAZOLETA,1199.0,Mataderos,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1253,Herminio Masantonio,PLAZA,2753.0,Parque Patricios,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1266,Plaza Armenia,PLAZA,68680.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1269,Ignacio Corsini,PLAZOLETA,1718.0,Parque Avellaneda,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1270,Bernardo B. Delom,PLAZOLETA,1076.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1274,Reserva Ecológica,PARQUE SEMIPÚBLICO,2325105.0,Puerto Madero,1,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1275,Parque España,PARQUE,42333.0,Barracas,4,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1276,Plaza Bruno Giordano,PLAZA,8642.0,Caballito,6,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1277,Juan XXIII,PLAZOLETA,7169.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1278,Plaza Gendarmería Nacional,PLAZA,2368.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1279,Plaza Campaña del Chaco,PLAZA,9344.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1280,Plaza República Islámica de Irán,PLAZA,14709.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1281,Plaza Juan F. Quiroga,PLAZA,60890.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1282,Adán Quiroga,PLAZOLETA,1500.0,Nuñez,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1283,Plaza Martín de Alzaga,PLAZA,5005.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1284,Mujeres Argentinas,PARQUE,67695.0,Puerto Madero,1,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1285,Plaza Estado Plurinacional de Bolivia,PLAZA,5910.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1286,Parque de San Benito,PARQUE,105664.0,Belgrano,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1287,Julio de Caro,PLAZOLETA,2769.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1288,Plaza Alberto Vaccarezza,PLAZA,2950.0,Villa Luro,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1292,Plaza Nstra. Sra. de las Nieves,PLAZA,2325.0,Monserrat,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1294,Prof. Ernesto Nelson,PLAZOLETA,5053.0,Villa Luro,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1295,Rómulo Zabala,PLAZOLETA,4309.0,Mataderos,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1296,Plaza Henry Dunant,PLAZA,3162.0,Mataderos,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1297,"Regimiento 1º de Infanteria ""Patricios""",PLAZOLETA,1074.0,San Nicolas,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1298,11 de Junio de 1580,PLAZOLETA,2165.0,Monserrat,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1299,José Hernández,PLAZOLETA,1586.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1300,Plaza Casa Cuna,PLAZA,4948.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1305,Pcia de Buenos Aires,PLAZOLETA,2278.0,Constitucion,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1308,Cnel. Toribio Tedin,PLAZOLETA,1506.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1311,Santa Francisca J. Cabrini,PLAZOLETA,1399.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1312,Parque de la Memoria,PARQUE,63643.0,Belgrano,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1313,Ciudad Universitaria,PARQUE,174083.0,Belgrano,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1314,Plaza del Ángel Gris,PLAZA,10718.0,Flores,7,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1327,Plaza Santos Dumont,PLAZA,1172.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1328,Plaza Boedo,PLAZA,6127.0,Boedo,5,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1329,Plaza Intendente Casares,PLAZA,4810.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1330,Carlos Thays (Jardín Botánico),JARDÍN BOTÁNICO,49871.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1331,Gral. Francisco Ramírez // Pita y Pedernera,JARDÍN,5544.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1334,Madre Teresa de Calcuta,JARDÍN,16671.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1335,Bosque Alegre (Depvo. M. Belgrano),PARQUE SEMIPÚBLICO,127628.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1336,Comod. Pedro Zanni,PLAZOLETA,4796.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1340,Plaza de la Shoá,PLAZA,5902.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1341,Pque. Polidep. Pdte. Julio A. Roca,PARQUE,435881.0,Villa Soldati,8,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1348,Barrio Municipal Soldati,BARRIO/COMPLEJO,91930.0,Villa Soldati,8,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1352,Parque Colón,PARQUE,13383.0,Monserrat,1,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1353,Plaza Israel,PLAZA,24254.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1354,Buenos Aires Polo Circo,PLAZA,13885.0,Parque Patricios,4,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1359,Paseo de Versalles,JARDÍN,7552.0,Versalles,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1362,Plaza República de Haití,PLAZA,16077.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1363,Plaza República de Serbia,PLAZA,12557.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1373,Parque Agustín P. Justo,PARQUE,21979.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1374,,PLAZOLETA,3091.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1375,,PLAZOLETA,4390.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1376,,PLAZOLETA,5560.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1378,,PLAZOLETA,10124.0,Puerto Madero,1,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1379,Parque Pioneros de la Antártida Argentina,PARQUE,40836.0,Saavedra,12,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1387,,PLAZOLETA,13780.0,Villa Soldati,8,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1389,,PLAZOLETA,1581.0,Villa Soldati,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1391,Parque de Flora Nativa Benito Quinquela Martin,PARQUE,24343.0,La Boca,4,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1393,Plaza Gumersindo González,PLAZA,19944.0,Barracas,4,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1394,Plaza Poeta Ricardo E. Lleras,PLAZA,6215.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1395,,PLAZA,2816.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1396,,PLAZA,2249.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1397,Plaza Ángel Villoldo,PLAZA,5142.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1398,Plaza Sergio Karakachoff,PLAZA,7407.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1399,,PLAZOLETA,1609.0,Villa Devoto,11,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1405,Plaza José Martí,PLAZA,8756.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1406,Plaza Nunca Más,PLAZA,4410.0,Villa Pueyrredon,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1416,,JARDÍN,5589.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1420,Parque Santojanni,PARQUE,17015.0,Liniers,9,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1421,Pque. Depvo. Onega,PARQUE,8225.0,Villa Devoto,11,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1422,Parque Eva Duarte de Perón,PARQUE,23068.0,Puerto Madero,1,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1426,Buque Principessa Mafalda,PLAZOLETA,2073.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1444,Jardín Japonés,PLAZA,13657.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1445,Plaza Sicilia,PLAZA,94972.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1449,,PLAZOLETA,2054.0,Villa Soldati,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1450,Plazoleta Padre Rodolfo Ricciardelli,PLAZOLETA,2109.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1451,Corredor Saludable Perito Moreno,PLAZOLETA,9729.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1452,Plaza Delfo Cabrera,PLAZA,4963.0,Villa Luro,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1453,Plazoleta Presidente Doctor Arturo Frondizi,PLAZOLETA,1424.0,Villa Luro,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1454,Plaza Las Toscaneras de Villa Real,PLAZA,8234.0,Villa Real,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1458,Anfiteatro Niní Marshall,PATIO RECREATIVO,2483.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1463,Plaza Lic. Carlos Campelo,PLAZA,5256.0,Coghlan,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1464,Plaza Estación Coghlan,PLAZA,11849.0,Coghlan,12,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1465,Plaza Julio César Fumarola,PLAZA,1207.0,Balvanera,3,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1467,Plaza Paseo de la Vida Dr. René Favaloro,PLAZA,2355.0,Caballito,6,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1469,Plaza Fray Mocho,PLAZA,26571.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1477,Plaza Rosa Lamorte de Lombardo,PLAZA,6557.0,Nueva Pompeya,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1484,Plaza Bosque Homenaje a las víctimas de Cromañón,PLAZA,8779.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1485,Plaza Monte Castro,PLAZA,8418.0,Monte Castro,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1486,Plaza 29 de Diciembre de 2001,PLAZA,2716.0,Monte Castro,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1488,Plaza Holanda,PLAZA,27832.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1489,Jardín de los Poetas (Plaza Holanda),PLAZA,2362.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1490,El Rosedal (Plaza Holanda),PLAZA,60959.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1503,Patio Radioaficionados Voluntarios Veteranos de Guerra (P. Chacabuco),PLAZA,2014.0,Parque Chacabuco,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1505,Plaza Catalinas Sur,PLAZA,2660.0,La Boca,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1506,Cooperadoras Escolares,PLAZOLETA,1349.0,Liniers,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1508,Plaza 18 de Diciembre de 1872,PLAZA,5922.0,Liniers,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1515,Plaza Guillermo y Alfredo Barbieri,PLAZA,4198.0,Parque Patricios,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1518,Paseo Guardavidas Argentinos,PLAZA,1796.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1530,Paseo Peatonal Costero Dip. Nac. Carlos Bello,PLAZOLETA,1216.0,La Boca,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1531,Paseo Alfredo Zitarrosa,PLAZOLETA,6180.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1536,Plaza República Árabe de Egipto,PLAZA,24697.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1537,Lago de Regatas Ernesto Jaimovich,PLAZA,55908.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1541,Cancha de Fútbol Barrio Rivadavia,PLAZA,3311.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1542,Plaza Barrio Rivadavia,PLAZA,1231.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1543,,PLAZOLETA,1812.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1544,Centro Recreativo Deportivo Villa 15,PARQUE,6347.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1557,Cancha NHT Zavaleta,PLAZA,1653.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1561,Cancha 5 Guemes,PLAZA,2554.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1565,Cancha 9,PLAZA,3134.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1566,Cancha Luján,PLAZA,1079.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1570,Sebastián Borro,PLAZA,4475.0,Mataderos,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1572,Plaza El Maestro - Ravignani,PLAZA,3685.0,Villa Devoto,11,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1573,Pque. Natural Lago Lugano,PARQUE,155733.0,Villa Soldati,8,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1574,Parque de las Ciencias,PARQUE,8224.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1576,Plaza Monroe,PLAZA,1379.0,Villa Urquiza,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1577,Plaza República de México,PLAZA,7139.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1584,Centro Médico Boca Juniors,PLAZA,1536.0,La Boca,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1585,,PLAZA,1779.0,La Boca,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1586,Cancha auxiliar abierta - Club Atl. Boca Juniors,PLAZA,9622.0,La Boca,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1587,Cancha auxiliar abierta anexa - Club Atl. Boca Juniors,PLAZA,8172.0,La Boca,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1588,Plaza Canchita Catalinas,PLAZA,3794.0,La Boca,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1589,,PLAZA,3899.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1590,,PLAZA,2277.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1591,,PLAZA,1460.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1606,Plazoleta 11 de Noviembre de 1859,PLAZOLETA,2019.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1607,Plaza Madre Ana María Mogas - Sector Parque Santojanni,PLAZA,5424.0,Liniers,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1608,Plazoleta Cafayate (No Oficial),PLAZOLETA,2006.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1614,Plaza Vespucio,PLAZA,1124.0,La Boca,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1618,Plaza del Caballito,PLAZA,5361.0,Caballito,6,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1620,Plazoleta Venancio Flores,PLAZOLETA,3159.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1623,Plaza Ana Díaz,PLAZA,3375.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1624,Plaza Piedra Buena y Saraza - De los Vecinos (No oficial),PLAZA,1520.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1626,Plaza Nuestra Señora de Fátima,PLAZA,4981.0,Villa Soldati,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1644,,PLAZOLETA,1919.0,Floresta,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1649,,PLAZOLETA,1381.0,Villa Devoto,11,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1650,Plaza 1 de Marzo de 1948,PLAZA,1195.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1653,Jardín de Villa del Parque,JARDÍN,1795.0,Villa Del Parque,11,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1656,,PLAZA,7630.0,Villa Pueyrredon,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1657,,PLAZOLETA,5492.0,Villa Pueyrredon,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1667,,PLAZOLETA,1023.0,Villa Urquiza,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1669,Plaza Arquitecto Juan Kurchan,PLAZA,1502.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1679,Plazoleta Zuberbuhler,PLAZOLETA,1271.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1682,,PLAZOLETA,4342.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1687,,PLAZOLETA,1700.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1700,,PLAZOLETA,3381.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1702,Plaza Barrio Gral Manuel Savio,PLAZA,15243.0,Villa Lugano,8,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1703,Parque Elcano de Chacarita (no oficial),PARQUE,11878.0,Chacarita,15,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1716,,PLAZOLETA,3308.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1719,,PLAZOLETA,2736.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1720,,PLAZOLETA,4692.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1723,,PLAZOLETA,1814.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1724,,PLAZOLETA,1475.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1725,,PLAZOLETA,1369.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1726,,PLAZOLETA,2050.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1727,,PLAZOLETA,1151.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1728,Plaza Paso Bajo Nivel Beiró,PLAZA,1488.0,Agronomia,15,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1730,,PLAZOLETA,1205.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1731,,PLAZOLETA,1499.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1732,,PLAZOLETA,1031.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1733,,PLAZOLETA,2292.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1734,,PLAZOLETA,2407.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1735,,PLAZOLETA,1097.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1736,,PLAZOLETA,2439.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1740,,PLAZOLETA,3030.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1741,,PLAZOLETA,1752.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1743,,PLAZOLETA,1875.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1745,Plaza Clemente,PLAZA,4187.0,Colegiales,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1746,,PLAZA,1943.0,Villa Crespo,15,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1747,Plaza Ramón Carrillo (No Oficial),PLAZA,6637.0,Villa Soldati,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1754,,PLAZOLETA,2146.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1756,,PLAZOLETA,1038.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1757,,PLAZOLETA,1483.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1761,,PLAZOLETA,3039.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1769,,PLAZOLETA,1833.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1795,Complejo Habitacional Padre Mugica,PLAZOLETA,6474.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1812,,PLAZOLETA,1069.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1814,,PLAZOLETA,4178.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1815,,PLAZOLETA,3954.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1816,Plazoleta Antonio Maceo,PLAZOLETA,1172.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1818,Espacio Público Saldías,PLAZA,1998.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1828,Plaza del Corralón,PLAZA,3053.0,Floresta,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1837,Predio Villa Olímpica (Pascual Pérez y Av Escalada),PLAZOLETA,3456.0,Villa Soldati,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1838,Predio Villa Olímpica (Delfo Cabrera y Pascual Pérez),PLAZOLETA,16874.0,Villa Soldati,8,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1839,"Predio Villa Olímpica (Camet, 23 de Junio y Demiddi)",PLAZOLETA,3929.0,Villa Soldati,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1840,"Predio Villa Olímpica (Demiddi, Boulevard y Camet",PLAZOLETA,2458.0,Villa Soldati,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1842,Parque de la Estación,PARQUE,4394.0,Balvanera,3,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1844,Plaza Manzana 66,PLAZA,5488.0,Balvanera,3,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1845,Plaza República del Líbano,PLAZA,5276.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1847,Plaza Jardín de la Recoleta,PLAZA,9485.0,Recoleta,2,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1875,Parque del Bajo,PARQUE,11139.0,Puerto Madero,1,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1877,Plaza Usina del Arte,PLAZA,1187.0,La Boca,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1878,Parque Elefante Blanco,PARQUE,3512.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1880,,PLAZA,1597.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1884,,PLAZOLETA,1047.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1893,Plazoleta Dr. Arturo Oñativia,PLAZOLETA,2556.0,Parque Patricios,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1906,Paseo de la Ribera Río (No oficial) (e/Reg de Patricios y Rocha),PLAZOLETA,9663.0,La Boca,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1907,Paseo de la Ribera Río (No oficial) (e/Luzuriaga y Villarino),PLAZOLETA,21047.0,Barracas,4,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1908,,PLAZOLETA,28261.0,Barracas,4,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1909,Camino de Sirga,PLAZOLETA,22896.0,Nueva Pompeya,4,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1926,,PLAZOLETA,2259.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1944,Cancha de los Huérfanos,PLAZA,4899.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1945,,PLAZOLETA,1258.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1950,,PLAZA,2964.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1955,Plaza Ranchera,PLAZA,2154.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1961,,PLAZA,1380.0,Retiro,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1981,,PLAZOLETA,1045.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1986,Plaza Blanca Varela,PLAZA,1969.0,Chacarita,15,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1987,Plaza Mercedes Sosa,PLAZA,1233.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1989,Parque Estación Buenos Aires,PARQUE,13553.0,Barracas,4,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1990,,PLAZOLETA,4687.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1992,Corredor verde Eva Perón (no oficial),PLAZOLETA,1139.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1994,Plazoleta Simón Wiesenthal,PLAZOLETA,1881.0,Parque Patricios,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1996,,PLAZOLETA,5091.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1997,,PLAZOLETA,1435.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1998,,PLAZOLETA,1319.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+1999,,PLAZOLETA,1303.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2000,,PLAZOLETA,1399.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2001,Plazoleta Edmundo Rivero,PLAZOLETA,2564.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2007,Plazoleta María Elena Walsh,PLAZOLETA,2606.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2012,,PLAZOLETA,1341.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2013,,PLAZOLETA,5321.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2020,,PLAZOLETA,1623.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2045,,PLAZOLETA,1579.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2047,,PLAZOLETA,1295.0,San Telmo,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2074,,PLAZOLETA,2732.0,Puerto Madero,1,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2114,Bo. Cardenal Santiago Copello,PLAZA,24491.0,Villa Lugano,8,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2115,,PLAZA,2843.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2124,,PLAZOLETA,1531.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2131,Bo. Los Perales (ex Manuel Dorrego),PLAZA,99487.0,Mataderos,9,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2133,,PLAZA,2058.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2134,,PLAZA,1007.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2135,,PLAZA,1197.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2136,,PLAZA,2141.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2137,,PLAZA,1775.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2138,,PLAZA,1062.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2139,,PLAZA,2188.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2140,,PLAZOLETA,1205.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2142,,PLAZA,3771.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2143,Barrio Juan José Nágera,PLAZOLETA,48324.0,Villa Lugano,8,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2145,Parque Barrio Piletones (no oficial),PARQUE,5599.0,Villa Soldati,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2148,,PLAZOLETA,2026.0,Villa Soldati,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2149,,PLAZOLETA,1025.0,Villa Soldati,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2152,,PLAZOLETA,2142.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2155,,PLAZOLETA,2450.0,Flores,7,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2157,Parque de la Innovación (ex Tiro Federal Argentino),PARQUE,72607.0,Nuñez,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2161,Parque Costero BA,PARQUE,1409.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2162,,PLAZOLETA,3845.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2169,,PLAZOLETA,1382.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2188,,PLAZOLETA,3299.0,Barracas,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2199,,PLAZOLETA,1967.0,Mataderos,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2203,Corredor Verde Emilio Castro,PLAZOLETA,1178.0,Liniers,9,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2209,,PLAZOLETA,1616.0,Floresta,10,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2218,Corredor Verde Av Triunvirato,PLAZOLETA,2057.0,Villa Urquiza,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2221,Plaza San Isidro Labrador,PLAZA,2074.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2223,,PLAZOLETA,1235.0,Nuñez,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2224,,PLAZOLETA,1828.0,Nuñez,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2225,Plaza Nodo Libertador,PLAZA,1064.0,Belgrano,13,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2231,Parque Ferroviario Colegiales,PARQUE,14200.0,Colegiales,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2232,,PLAZOLETA,1871.0,Chacarita,15,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2233,,PLAZOLETA,1161.0,Chacarita,15,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2234,,PLAZOLETA,1628.0,Chacarita,15,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2249,,PLAZOLETA,1105.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2276,,PLAZOLETA,1832.0,Nueva Pompeya,4,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2306,Plaza Barrio Presidente Roque Sáenz Peña,PLAZA,20097.0,Saavedra,12,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2310,,PLAZA,3066.0,Saavedra,12,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2324,,PLAZOLETA,3330.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2326,Plaza Las Cañitas,PLAZA,4889.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2357,Parque Ferroviario Palermo,PARQUE,3666.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2358,,PLAZOLETA,1051.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2360,,PLAZOLETA,1126.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2386,Plaza Villa Santa Rita,PLAZA,1178.0,Villa Santa Rita,11,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2394,,PLAZOLETA,1916.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2395,,PLAZOLETA,6919.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2396,Plazoleta Joseph Kessel - Monumento Jean Mermoz,PLAZOLETA,4440.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2397,Parque Salguero,PARQUE,66450.0,Palermo,14,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2398,,PLAZOLETA,3050.0,Palermo,14,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2401,Plaza Memoria AMIA,PLAZA,19587.0,Belgrano,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2402,Reserva Ecológica Ciudad Universitaria Costanera Norte,PARQUE SEMIPÚBLICO,132531.0,Belgrano,13,1,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2403,,PLAZA,7483.0,Villa Soldati,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2404,,PLAZA,8641.0,Villa Soldati,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2405,,PLAZA,7351.0,Villa Soldati,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
+2406,Plazoleta Barrio Papa Francisco,PLAZOLETA,2605.0,Villa Lugano,8,0,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/secretaria-de-desarrollo-urbano/espacios-verdes/espacio_verde_publico.csv,2026-10-27
